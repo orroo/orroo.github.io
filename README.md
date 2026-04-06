@@ -18,11 +18,11 @@ I am a motivated and forward-thinking computer engineering student at **ESPRIT**
 
 | Issuer | Certification | Date | Link |
 |--------|--------------|------|------|
-| NVIDIA | Building Transformer-Based NLP Applications | Mar 2026 | [View Certificate](#) |
-| NVIDIA | Building AI Agents with Multimodal Models | Nov 2025 | [View Certificate](#) |
-| NVIDIA | Generative AI with Diffusion Models | Feb 2025 | [View Certificate](#) |
-| NVIDIA | Fundamentals of Deep Learning | Dec 2024 | [View Certificate](#) |
-| AWS | Academy Graduate — Cloud Foundations | Oct 2024 | [View Certificate](#) |
+| NVIDIA | Building Transformer-Based NLP Applications | Mar 2026 | [View Certificate](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flearn.nvidia.com%2Fcertificates%3Fid&urlhash=Z1wa&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BiiU4006VTR6Wx55%2FirCDTw%3D%3D) |
+| NVIDIA | Building AI Agents with Multimodal Models | Nov 2025 | [View Certificate](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flearn.nvidia.com%2Fcertificates%3Fid&urlhash=Z1wa&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BiiU4006VTR6Wx55%2FirCDTw%3D%3D) |
+| NVIDIA | Generative AI with Diffusion Models | Feb 2025 | [View Certificate](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flearn.nvidia.com%2Fcertificates%3Fid&urlhash=Z1wa&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BiiU4006VTR6Wx55%2FirCDTw%3D%3D) |
+| NVIDIA | Fundamentals of Deep Learning | Dec 2024 | [View Certificate](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flearn.nvidia.com%2Fcertificates%3Fid&urlhash=Z1wa&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BiiU4006VTR6Wx55%2FirCDTw%3D%3D) |
+| AWS | Academy Graduate — Cloud Foundations | Oct 2024 | [View Certificate](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww.credly.com%2Fbadges%2Fa3ce8dcb-00f2-4de0-a797-bcec09277dc2%2Flinked_in_profile&urlhash=yFuj&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BiiU4006VTR6Wx55%2FirCDTw%3D%3D) |
 
 > 💡 Replace each `#` above with the actual URL of your certificate.
 
