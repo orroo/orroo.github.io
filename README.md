@@ -18,13 +18,12 @@ I am a motivated and forward-thinking computer engineering student at **ESPRIT**
 
 | Issuer | Certification | Date | Link |
 |--------|--------------|------|------|
-| NVIDIA | Building Transformer-Based NLP Applications | Mar 2026 | [View Certificate](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flearn.nvidia.com%2Fcertificates%3Fid&urlhash=Z1wa&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BiiU4006VTR6Wx55%2FirCDTw%3D%3D) |
-| NVIDIA | Building AI Agents with Multimodal Models | Nov 2025 | [View Certificate](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flearn.nvidia.com%2Fcertificates%3Fid&urlhash=Z1wa&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BiiU4006VTR6Wx55%2FirCDTw%3D%3D) |
-| NVIDIA | Generative AI with Diffusion Models | Feb 2025 | [View Certificate](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flearn.nvidia.com%2Fcertificates%3Fid&urlhash=Z1wa&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BiiU4006VTR6Wx55%2FirCDTw%3D%3D) |
-| NVIDIA | Fundamentals of Deep Learning | Dec 2024 | [View Certificate](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flearn.nvidia.com%2Fcertificates%3Fid&urlhash=Z1wa&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BiiU4006VTR6Wx55%2FirCDTw%3D%3D) |
-| AWS | Academy Graduate — Cloud Foundations | Oct 2024 | [View Certificate](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww.credly.com%2Fbadges%2Fa3ce8dcb-00f2-4de0-a797-bcec09277dc2%2Flinked_in_profile&urlhash=yFuj&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BiiU4006VTR6Wx55%2FirCDTw%3D%3D) |
-
-> 💡 Replace each `#` above with the actual URL of your certificate.
+| NVIDIA | Building Transformer-Based NLP Applications | Mar 2026 | [View Certificate](https://learn.nvidia.com/certificates?id=O56I4eM2SNOdmrhK3skyWQ) |
+| NVIDIA | Building AI Agents with Multimodal Models | Nov 2025 | [View Certificate](https://learn.nvidia.com/certificates?id=aZqkLoULRXuxraKETSsF0w) |
+| NVIDIA | Generative AI with Diffusion Models | Feb 2025 | [View Certificate](https://learn.nvidia.com/certificates?id=CNCcc7jLTzSCMH63AYHeIA) |
+| NVIDIA | Fundamentals of Deep Learning | Dec 2024 | [View Certificate](https://learn.nvidia.com/certificates?id=5sCJ7SRzSdG_Uya1R9i3jQ) |
+| AWS | Academy Graduate — Cloud Foundations | Oct 2024 | [View Certificate](https://www.credly.com/badges/22004ccc-7d1b-4d03-8797-4673ace98589/public_url) |
+ 
 
 ---
 
