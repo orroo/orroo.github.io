@@ -1,7 +1,7 @@
 # Omar Riahi
 ### AI Engineering Student |  Developer 
 
-I am a motivated and forward-thinking computer engineering student at **ESPRIT**. With a strong passion for **Artificial Intelligence** and **Real-Time Systems**, I specialize in creative problem-solving and building applications that bridge the gap between hardware and software.
+I am a motivated and forward-thinking computer engineering student at **ESPRIT**. With a strong passion for **Artificial Intelligence** , I specialize in creative problem-solving and building applications that bridge the gap between hardware and software.
 
 ---
 
